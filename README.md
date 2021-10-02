@@ -11,7 +11,7 @@ WORDS.txt : SCOWL Project (american-words-insane)
 
 1. Compile and run unscramble.java
 
-2. Upon running, the program will prompt you to provide it with letters, all combined as a single words. 
+2. Upon running, the program will prompt you to provide it with letters, all combined as a single word. 
 - Example: ehlol 
     - ehlol will return "hello" and "holle" 
 
